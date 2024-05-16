@@ -1,0 +1,10 @@
+body {
+	font-family: 'Libre Baskerville', sans-serif;
+	color: white;
+	background-image: url('assets/Goya-Background.png');
+	background-size: cover;
+}
+
+.header, .footer {
+	font-family: 'Futura', sans-serif;
+}

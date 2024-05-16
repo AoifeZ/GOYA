@@ -1,0 +1,23 @@
+# .gitignore
+
+# Environment variables & API keys
+.env
+
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# IDE or text editor files
+.vscode/
+.idea/
+
+# Temporary files
+__pycache__/
+.pytest_cache/
+.coverage
+
+# Log files
+logs/
+*.log
